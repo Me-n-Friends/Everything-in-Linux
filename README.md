@@ -9,3 +9,4 @@ This repository cover every topic in Linux. If you want to contribute, please re
 ---
 
 ### 1. [Install Python Latest Version](./Install%20Python%20Latest%20Version)
+### 2. [Install Gimp](./Install%20Gimp)

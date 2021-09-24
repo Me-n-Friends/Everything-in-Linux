@@ -13,6 +13,7 @@ To check the bluetooth device is enable, we run this command `systemctl is-enabl
 ## Step 3: Pairing to Bluetooth device
 Check the bluetooth service is blocked or not with `rfkill` </br>
 To unblock the service, type `rfkill unblock bluetooth` and check once again to make sure the service is unblock </br>
+Type `systemctl start bluetooth.service` </br>
 Now type `bluetoothctl` to enter the bluetooth device interface </br>
 ```
 [bluetooth]# agent KeyboardOnly

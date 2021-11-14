@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5179d0f56e9c117a",
+        "id": "2c0f1cc55c3628e0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Install Snap/README.md",
+            "file": "Install Discord Via Tar/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Install Snap/README.md",
+                "file": "Install Discord Via Tar/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5179d0f56e9c117a",
+  "active": "2c0f1cc55c3628e0",
   "lastOpenFiles": [
+    "Install Discord Via Tar/README.md",
     "Install Snap/README.md",
     "README.md",
     "Setting Bluetooth in Linux/README.md"

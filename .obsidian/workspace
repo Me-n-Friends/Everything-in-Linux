@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Install Snap/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Install Snap/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "5179d0f56e9c117a",
   "lastOpenFiles": [
+    "Install Snap/README.md",
     "README.md",
-    "Install Snap/README.md.md",
     "Setting Bluetooth in Linux/README.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Install Discord Via Tar/README.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Install Discord Via Tar/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "2c0f1cc55c3628e0",
   "lastOpenFiles": [
-    "Install Discord Via Tar/README.md",
-    "Install Snap/README.md",
     "README.md",
+    "Install Discord/README.md",
+    "Install Snap/README.md",
     "Setting Bluetooth in Linux/README.md"
   ]
 }

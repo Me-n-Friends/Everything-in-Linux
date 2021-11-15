@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Install Anaconda/README.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252
   },
   "right": {
     "id": "736d4c619b0398a5",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Install Anaconda/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "2c0f1cc55c3628e0",
   "lastOpenFiles": [
+    "README.md",
     "Install Anaconda/README.md",
     "Install Snap/README.md",
-    "README.md",
     "Install Discord/README.md",
     "Setting Bluetooth in Linux/README.md"
   ]

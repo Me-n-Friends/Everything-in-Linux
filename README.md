@@ -14,3 +14,4 @@ This repository cover every topic in Linux. If you want to contribute, please re
 ### 4. [Setting up Bluetooth Device in Linux](./Setting%20Bluetooth%20in%20Linux)
 ### 5. [Install Snap](./Install%20Snap)
 ### 6. [Install Discord](./Install%20Discord)
+### 7. [Install Anaconda](./Install%20Anaconda)
